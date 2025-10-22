@@ -1,1 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 
+body {
+    font-family: "Archivo Black", sans-serif;
+}
+
+body {
+    background: hwb(0 54% 45%);
+    font-size: 14px;
+    font-weight:  
+}
+
+.recipe-section {
+    border: 4px dotted black;
+    padding: 10px;
+    margin: 10px 0;
+}
