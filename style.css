@@ -4,14 +4,41 @@ body {
     font-family: "Archivo Black", sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 
+}
+
 body {
     background: hwb(0 54% 45%);
     font-size: 14px;
-    font-weight:  
+    font-weight: lighter;
 }
 
+a {
+    background: black;
+    padding: 3px 1%;
+    border: 1px solid;
+    border-radius: 20px;
+    color: black
+}
+
+
+     
+
 .recipe-section {
-    border: 4px dotted black;
+    border: 4px solid black;
+    border-radius: 20px;
     padding: 10px;
     margin: 10px 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+img {
+    border: 3px solid black;
+    box-shadow: 3px 3px 3px;
 }
